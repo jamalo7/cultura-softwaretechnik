@@ -1,11 +1,35 @@
+# Cultura App
 
-  # Cultura Mobile App Design
+App source code for the Cultura Softwaretechnik group project at FH Dortmund.
 
-  This is a code bundle for Cultura Mobile App Design. The original project is available at https://www.figma.com/design/V9OvpYXPRx1m3Web7UMMZs/Cultura-Mobile-App-Design.
+## Live Demo
 
-  ## Running the code
+[Try the Cultura app](https://cultura-demo-seven.vercel.app/)
 
-  Run `npm i` to install the dependencies.
+## Technologies
 
-  Run `npm run dev` to start the development server.
+React, TypeScript, Vite and Tailwind CSS.
+
+## Run Locally
+
+Open a terminal in the App folder, then run:
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Development
+
+The prototype was designed in Figma Make. The app code was developed with AI assistance, including ChatGPT.
+
+## Project Documentation
+
+[View the project overview and documents](../README.md)
   
