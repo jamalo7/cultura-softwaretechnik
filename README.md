@@ -14,13 +14,15 @@ Developed as a four-student project for the Softwaretechnik module at FH Dortmun
 
 ## Project Materials
 
-- Project vision
-- Personas and scenario
-- Requirements document
-- Use case specification
-- GUI prototype
-- UML class, activity and sequence diagrams
-- Project presentation
+1. [Project Vision](01_Projektvision.pdf)
+2. [Personas and Scenario](02_Personas_und_Szenario.pdf)
+3. [Requirements Document](03_Anforderungsdokument.pdf)
+4. [Use Case Specification](04_Anwendungsfallspezifikation.pdf)
+5. [UML Class Diagram](05_UML_Klassendiagramm.pdf)
+6. [UML Activity Diagram](06_UML_Aktivitaetsdiagramm.pdf)
+7. [UML Sequence Diagram](07_UML_Sequenzdiagramm.pdf)
+8. [GUI Prototype](08_GUI_Prototyp.pdf)
+9. [Project Presentation — PowerPoint](09_Praesentation.pptx)
 
 ## Team
 
