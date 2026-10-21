@@ -38,9 +38,12 @@ The other team members created the remaining project documents.
 
 ## Project Scope
 
-This repository contains the project documentation, UML diagrams and presentation, with a link to the Figma prototype.
+This repository contains the Cultura project documentation, UML diagrams, presentation and app source code.
 
-App code was also developed with assistance from ChatGPT. The source code is not currently included in this repository.
+The app source code is available in the [app folder](app/). It was exported from Figma Make and developed with assistance from ChatGPT.
+
+The interactive prototype is also linked in the Figma Prototype section.
+
 ## Team
 
 Created by four students for the Softwaretechnik module at FH Dortmund:
