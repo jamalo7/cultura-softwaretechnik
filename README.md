@@ -8,9 +8,9 @@ Cultura is a mobile app concept designed to connect people through language lear
 
 Developed as a four-student project for the Softwaretechnik module at FH Dortmund, the project covers requirements analysis, user personas, use case specifications, UML modelling and a Figma prototype.
 
-## Figma Prototype
+## Live Demo
 
-[Open the Cultura prototype](https://www.figma.com/make/V9OvpYXPRx1m3Web7UMMZs/Cultura-MobileApp-Design)
+[Try the Cultura app](https://cultura-demo-seven.vercel.app/)
 
 ## Project Materials
 
