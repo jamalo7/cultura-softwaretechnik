@@ -22,7 +22,7 @@ Developed as a four-student project for the Softwaretechnik module at FH Dortmun
 6. [UML Activity Diagram](06_UML_Aktivitaetsdiagramm.pdf)
 7. [UML Sequence Diagram](07_UML_Sequenzdiagramm.pdf)
 8. [GUI Prototype](08_GUI_Prototyp.pdf)
-9. [Project Presentation — PowerPoint](09_Praesentation.pptx)
+9. [Project Presentation — PDF](09_Praesentation.pdf)
 
 ## My Contribution — Jamal Ourty
 
