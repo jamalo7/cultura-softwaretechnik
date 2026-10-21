@@ -16,4 +16,9 @@ Cultura – Softwaretechnik group project: language and cultural exchange, UML d
 
 ## Team
 
-Created as a group project by four students for the Softwaretechnik module at FH Dortmund.
+Created by four students for the Softwaretechnik module at FH Dortmund:
+
+- Jamal Ourty
+- Abdelmoumen Mazid
+- Amine Houboub
+- Rania Mhani
