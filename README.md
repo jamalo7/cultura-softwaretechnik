@@ -24,6 +24,23 @@ Developed as a four-student project for the Softwaretechnik module at FH Dortmun
 8. [GUI Prototype](08_GUI_Prototyp.pdf)
 9. [Project Presentation — PowerPoint](09_Praesentation.pptx)
 
+## My Contribution — Jamal Ourty
+
+I was responsible for:
+
+- Creating the personas and scenario.
+- Writing the use case specification.
+- Creating the GUI prototype.
+- Designing the app interface in Figma.
+- Developing the app code with assistance from ChatGPT.
+
+The other team members created the remaining project documents.
+
+## Project Scope
+
+This repository contains the project documentation, UML diagrams and presentation, with a link to the Figma prototype.
+
+App code was also developed with assistance from ChatGPT. The source code is not currently included in this repository.
 ## Team
 
 Created by four students for the Softwaretechnik module at FH Dortmund:
